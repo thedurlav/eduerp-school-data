@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "schoolId": 101,
+    "schoolCode": "bharatmataamlipadar",
+    "schoolName": "Bharat Mata Amlipadar (Hindi)",
+    "portalUrl": "https://bharatmataamlipadar.eduerp.net"
+  },
+  {
+    "id": 2,
+    "schoolId": 102,
+    "schoolCode": "bhnamlipadar",
+    "schoolName": "BHN Amlipadar (English)",
+    "portalUrl": "https://bhnamlipadar.eduerp.net"
+  },
+  {
+    "id": 3,
+    "schoolId": 103,
+    "schoolCode": "bharatmatadohel",
+    "schoolName": "Bharat Mata Dohel (Hindi)",
+    "portalUrl": "https://bharatmatadohel.bhnsspl.com"
+  },
+  {
+    "id": 4,
+    "schoolId": 104,
+    "schoolCode": "bhndohel",
+    "schoolName": "BHN Dohel (English)",
+    "portalUrl": "https://bhndohel.bhnsspl.com"
+  }
+]
