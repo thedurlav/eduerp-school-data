@@ -26,5 +26,13 @@
     "schoolCode": "bhndohel",
     "schoolName": "BHN Dohel (English)",
     "portalUrl": "https://bhndohel.bhnsspl.com"
+  },
+  
+    {
+    "id": 5,
+    "schoolId": 105,
+    "schoolCode": "test",
+    "schoolName": "Test EduERP (English)",
+    "portalUrl": "https://test.eduerp.net"
   }
 ]
