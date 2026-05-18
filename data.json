@@ -4,35 +4,39 @@
     "schoolId": 101,
     "schoolCode": "bharatmataamlipadar",
     "schoolName": "Bharat Mata Amlipadar (Hindi)",
-    "portalUrl": "https://bharatmataamlipadar.eduerp.net"
+    "portalUrl": "https://bharatmataamlipadar.eduerp.net",
+    "logo_url": "https://github.com/thedurlav/eduerp-school-data/blob/9c95b61e86a9076bbf72a2924ae42126403d46ee/BHN-Logo.png"
   },
   {
     "id": 2,
     "schoolId": 102,
     "schoolCode": "bhnamlipadar",
     "schoolName": "BHN Amlipadar (English)",
-    "portalUrl": "https://bhnamlipadar.eduerp.net"
+    "portalUrl": "https://bhnamlipadar.eduerp.net",
+    "logo_url": "https://github.com/thedurlav/eduerp-school-data/blob/9c95b61e86a9076bbf72a2924ae42126403d46ee/BHN-Logo.png"
   },
   {
     "id": 3,
     "schoolId": 103,
     "schoolCode": "bharatmatadohel",
     "schoolName": "Bharat Mata Dohel (Hindi)",
-    "portalUrl": "https://bharatmatadohel.bhnsspl.com"
+    "portalUrl": "https://bharatmatadohel.bhnsspl.com",
+    "logo_url": "https://github.com/thedurlav/eduerp-school-data/blob/9c95b61e86a9076bbf72a2924ae42126403d46ee/BHN-Logo.png"
   },
   {
     "id": 4,
     "schoolId": 104,
     "schoolCode": "bhndohel",
     "schoolName": "BHN Dohel (English)",
-    "portalUrl": "https://bhndohel.bhnsspl.com"
+    "portalUrl": "https://bhndohel.bhnsspl.com",
+    "logo_url": "https://github.com/thedurlav/eduerp-school-data/blob/9c95b61e86a9076bbf72a2924ae42126403d46ee/BHN-Logo.png"
   },
-  
-    {
+  {
     "id": 5,
     "schoolId": 105,
     "schoolCode": "test",
     "schoolName": "Test EduERP (English)",
-    "portalUrl": "https://test.eduerp.net"
+    "portalUrl": "https://test.eduerp.net",
+    "logo_url": "https://github.com/thedurlav/eduerp-school-data/blob/9c95b61e86a9076bbf72a2924ae42126403d46ee/BHN-Logo.png"
   }
 ]
